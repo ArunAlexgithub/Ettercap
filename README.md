@@ -18,7 +18,3 @@ on bt
 
 echo 1 > /proc/sys/net/ipv4/ip_forward
 
-Backtrack
-Forensics
-Network Forensics
-xplico web gui 
